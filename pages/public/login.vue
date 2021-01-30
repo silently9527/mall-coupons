@@ -89,7 +89,7 @@
         hsMobmessage.sendCode({
           phoneNumber: this.mobile,
           zone: "86",
-          template: '12757475',
+          template: '',
           getCodeMethod: 'SMS',
         }, result => {
           if(result === 'error') {
