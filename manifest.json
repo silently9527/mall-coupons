@@ -94,8 +94,8 @@
         },
         "nativePlugins" : {
             "Hs-MobMessage" : {
-                "MOBAppKey" : "2f8c25b99b576",
-                "MOBAppSecret" : "39d8f457b79010c871a1cde31a19bee8",
+                "MOBAppKey" : "",
+                "MOBAppSecret" : "",
                 "__plugin_info__" : {
                     "name" : "MobSMS免费短信验证码android+ios，苹果已过审",
                     "description" : "已有应用通过苹果审核，每月免费10000条，可用短信模板ID,可发送文字和语言验证码",
@@ -128,7 +128,7 @@
     "mp-weixin" : {
         /* 小程序特有相关 */
         "usingComponents" : true,
-        "appid" : "wx3979df017df64f48",
+        "appid" : "",
         "setting" : {
             "urlCheck" : true,
             "es6" : true,
@@ -140,7 +140,7 @@
         }
     },
     "mp-qq" : {
-        "appid" : "1110200981",
+        "appid" : "",
         "setting" : {
             "minified" : true,
             "es6" : true,
@@ -152,7 +152,7 @@
         }
     },
     "mp-toutiao" : {
-        "appid" : "tt28095eb4b7234c85",
+        "appid" : "",
         "setting" : {
             "es6" : true,
             "postcss" : true,
